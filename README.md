@@ -2,7 +2,7 @@
  
 # Smart Automated Anti-Violence Intervention
 
-![Project Logo/Thumbnail](link_to_project_image.png)
+![Project Logo/Thumbnail](https://github.com/Imranpasha30/project/blob/main/Designer%20(5).png)
 
 ## Introduction
 
@@ -20,5 +20,7 @@ This project is aimed at developing a system that detects instances of violence 
 2. **Violence Detection**: Utilizes machine learning and computer vision algorithms to detect violence in the video streams.
 3. **Alerting Mechanism**: When violence is detected, an automatic alert is triggered to notify nearby authorities.
 4. **Response and Intervention**: Law enforcement agencies can respond promptly to the alerts and take necessary actions.
-
+ ### Results
+ ## Violence 
+ ![violence]
 
