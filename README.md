@@ -22,7 +22,7 @@ This project is aimed at developing a system that detects instances of violence 
 4. **Response and Intervention**: Law enforcement agencies can respond promptly to the alerts and take necessary actions.
  ### Results
  ## Violence 
- ![violence](https://github.com/Imranpasha30/project/blob/main/WhatsApp%20Image%202024-05-07%20at%2016.47.34_b5584a8f.jpg)
+ ![violence](https://github.com/Imranpasha30/project/blob/main/Screenshot%202024-05-01%20235546.png)
  ## Non-Violence
   ![non-violence](https://github.com/Imranpasha30/project/blob/main/WhatsApp%20Image%202024-05-07%20at%2016.47.10_7f8c514b.jpg)
  ## Alert message 
